@@ -25,12 +25,7 @@
 var NAVTREE =
 [
   [ "Algorithms_in_C", "index.html", [
-    [ "The Algorithms - C", "index.html", [
-      [ "Overview", "index.html#autotoc_md78", null ],
-      [ "Features", "index.html#autotoc_md79", null ],
-      [ "Documentation", "index.html#autotoc_md80", null ],
-      [ "Contributions", "index.html#autotoc_md81", null ]
-    ] ],
+    [ "The Algorithms - C", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md1", null ],
       [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md2", null ],
@@ -141,9 +136,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/d68/qr__decompose_8h_source.html",
-"d8/d32/problem__25_2sol1_8c.html#a0ddf1224851353fc92bfbff6f499fa97",
-"dc/de3/hash__set_8h_source.html",
-"globals_b.html"
+"d8/d30/decimal__to__binary__recursion_8c.html#acbbe6358ec95b3201865a72b2ac522c8",
+"dc/d9a/group__quats.html#ga8cc5e5b7a5fa492423ecf034c8bb52bd",
+"functions_vars.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
