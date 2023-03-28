@@ -134,9 +134,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/d68/qr__decompose_8h.html",
-"d7/dfd/structdual__quat__.html#a1b05fbc4135e4f9b731423f26527543d",
-"dc/d73/shunting__yard_8c.html#aa8dca7b867074164d5f45b0f3851269d",
-"dir_bd4a7dd282074645ef41b1ea31ac813a.html"
+"d7/d91/problem__15_2sol1_8c.html#a4650d1d3897633d84253f93433f601d6",
+"dc/d32/problem__5_2sol1_8c.html",
+"dir_296d53ceaeaa7e099814a6def439fe8a.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
